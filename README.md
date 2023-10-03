@@ -3,14 +3,17 @@
 This Python script allows you to scrape Mobile Legends data, including heroes' images, IDs, roles, and skills. It simplifies the process of extracting essential information from the game for analysis, categorization, and further research.
 
 ## Features
-
+** mole_scrape_heroes_images.py **
 - **Hero Images**: The script retrieves high-quality images of Mobile Legends heroes, enabling visual representation and identification.
 
-- **Hero ID**: Easily access hero IDs for efficient categorization and organization.
+** mole_scrape_items.py **
+- **Hero Images**: The script retrieves high-quality images of Mobile Legends items.
 
-- **Roles**: Extract heroes' roles to gain insights into their strategic importance and team composition.
+** mlbb_scrape_skills_mapi.py **
+- **Hero Skills**: Gather comprehensive information about hero skills for detailed analysis and comparison, exported to xlsx in this format id, hero_id, hero_name, skill_name, skill_img, lang, description, available.
 
-- **Skills**: Gather comprehensive information about hero skills for detailed analysis and comparison.
+** mlbb_scrape_hero_mapi_liquidpedia_fandom.py **
+- **Hero Data**: Gather comprehensive information about heroes, exported to xlsx in this format id, hero_id, hero_name, primary_role, secondary_role, durability, offense, control effect, difficulty, specialty_primary, specialty_seconday.
 
 ## Requirements
 
