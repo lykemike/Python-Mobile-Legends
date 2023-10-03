@@ -128,6 +128,8 @@ hero_data = [
     {"id": 117, "mapi_id": 117, "name": "Fredrinn", "liquidpedia_url": "Fredrinn"},
     {"id": 118, "mapi_id": 118, "name": "Joy", "liquidpedia_url": "Joy"},
     {"id": 119, "mapi_id": 120, "name": "Arlott", "liquidpedia_url": "Arlott"},
+    {"id": 120, "mapi_id": 121, "name": "Ixia", "liquidpedia_url": "Ixia"},
+    {"id": 121, "mapi_id": 122, "name": "Nolan", "liquidpedia_url": "Nolan"},
 ]
 
 
